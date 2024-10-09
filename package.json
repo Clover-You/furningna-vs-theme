@@ -1,0 +1,22 @@
+{
+  "name": "furningna",
+  "displayName": "Furningna",
+  "preview": true,
+  "description": "Furningna, Genshin",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.94.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Furningna Dark",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Furningna-color-theme.json"
+      }
+    ]
+  }
+}
