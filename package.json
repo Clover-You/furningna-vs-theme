@@ -4,6 +4,11 @@
   "preview": true,
   "description": "Furningna, Genshin",
   "version": "0.0.1",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Clover-You/furningna-vs-theme.git"
+  },
+  "bugs": "https://github.com/clover-you/furningna-vs-theme/issues",
   "engines": {
     "vscode": "^1.94.0"
   },
